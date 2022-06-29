@@ -1,0 +1,67 @@
+html {
+	max-width: 1400px;
+}
+body {
+	background-image: url("../image/mhdheader.jpg");
+	background-repeat: no-repeat;
+	background-size: auto 400px;
+	padding-top: 350px;
+}
+
+.menubar {
+	width: 100%;
+	text-align: right;
+	display: block;
+	color: rgb(74,91,110);
+}
+
+.menubar ul {
+	list-style-type: none;
+}
+
+.menubar li {
+	display: inline-block;
+	margin: 5px;
+}
+
+.menubar a {
+	text-decoration: none;
+	font-size: 20;
+}
+
+.tab { 
+	margin-left: 50px; 
+}
+
+.tab2 { 
+	margin-left: 100px; 
+}
+
+.tab3 {
+	position: absolute;left: 50px;
+}
+
+.wh {
+	color: rgb(255,255,255);
+	font-size: 15px;
+}
+
+.bl {
+	color: rgb(74,91,110);
+	font-size: 17px;
+}
+
+.rectangle {
+  height: 50px;
+  width: 100px;
+  background-color: #555;
+}
+
+.disc {
+	color: rgb(74,91,110);
+	font-size: 15px;
+	text-align: center;
+	padding-left: 50px;
+	padding-right: 50px;
+	
+}

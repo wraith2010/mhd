@@ -132,8 +132,8 @@
 
  #practices>p {
  	width: 60%;
-	margin-left: auto;
-	margin-right: auto;
+ 	margin-left: auto;
+ 	margin-right: auto;
  }
 
  .practices {
@@ -235,11 +235,20 @@
  		font-size: 1.8rem;
  	}
 
+ 	.hero>img,
+ 	.hero>p {
+ 		width: 90%;
+ 	}
+
+ 	#practices>p {
+ 		width: 90%;
+ 	}
+
  	h2 {
  		font-size: 1.5rem;
  	}
 
  	section {
- 		padding: 2rem 0;
+ 		padding: 0 0;
  	}
  }
